@@ -1,0 +1,36 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environments
+
+venv/
+env/
+.venv/
+
+Environment Variables (CRITICAL: Do not commit API keys)
+
+.env
+.env.local
+
+Distribution / Packaging
+
+dist/
+build/
+*.egg-info/
+
+IDE / Editor settings
+
+.vscode/
+.idea/
+.DS_Store
+
+Streamlit specific
+
+.streamlit/secrets.toml
+
+Optional: Ignore local data directory if it contains large/private docs
+
+data/
