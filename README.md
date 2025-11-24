@@ -117,9 +117,10 @@ python agent.py query --q "What is the summary?"
 
 **Ramsha Akhter**
 
-🎓 M.S. Data Science | University of Texax Arlington
+🎓 M.S. Data Science | University of Texas Arlington
 
 
 ## 📜 License
+
 
 Released under the **MIT License**.
